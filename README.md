@@ -1,5 +1,5 @@
 
-[![Python 3.7](https://img.shields.io/badge/python-2.7%20%7C%203.7-blue.svg)](https://www.python.org/)
+[![Python 3.7](https://www.python.org/)
 
 
 # Tolkien SDK Python API
